@@ -1,0 +1,94 @@
+[
+  {
+    "answer": 2,
+    "question": "Who is responsible for national economic management? ",
+    "options": [
+      "State and territory governments",
+      "The Council of Australian local government",
+      "The Australian Federal government"
+    ],
+    "id": 1
+  },
+  {
+    "answer": 0,
+    "question": "Which statement about Australia\u2019s democracy system is correct? ",
+    "options": [
+      "Citizens freely choose representatives to given the country and make laws on their behalf",
+      "Citizens propose and make laws directly through parliament",
+      "Selected Citizens advise, propose and change laws with government officials"
+    ],
+    "id": 2
+  },
+  {
+    "answer": 2,
+    "question": "What are the three colours of the Australian Aboriginal Flag?",
+    "options": ["Black, Red, Green", "Red, Black, White", "Black, Red, Yellow"],
+    "id": 3
+  },
+  {
+    "answer": 0,
+    "question": "\u201cIt identifies the authority and property of the Commonwealth of Australia\u201d - What is this sentence referring to?",
+    "options": [
+      "The Commonwealth Coat of Arms",
+      "The Coat of Australia",
+      "The Federation of Australia"
+    ],
+    "id": 4
+  },
+  {
+    "answer": 1,
+    "question": "How do you express your democratic beliefs as an Australian citizen?",
+    "options": [
+      "By going to church.",
+      "By living peacefully, respecting all",
+      "By having a stable job."
+    ],
+    "id": 5
+  },
+  {
+    "answer": 1,
+    "question": "During which period of time did migration levels rise and fall?",
+    "options": [
+      "First half of the 19th century",
+      "First half of the 20th century",
+      "Last half of the 20th century"
+    ],
+    "id": 6
+  },
+  {
+    "answer": 2,
+    "question": "Who was Captain Arthur Phillip?",
+    "options": [
+      "First Premier of Queensland",
+      "First Governor General of Australia",
+      "The commander of first fleet in Australia"
+    ],
+    "id": 7
+  },
+  {
+    "answer": 1,
+    "question": "Why is the Floral Emblem famous in Australia?",
+    "options": [
+      "It is Australian National Flag",
+      "It is Australia\u2019s National Flower",
+      "It is Australian National Fruit"
+    ],
+    "id": 8
+  },
+  {
+    "answer": 0,
+    "question": "The power and authority to make and change the laws in Australia is called: ",
+    "options": ["Legislative Power", "Executive Power", "Judicial Power"],
+    "id": 9
+  },
+  {
+    "answer": 2,
+    "question": "On which occasion or special events can we sing Australia\u2019s national anthem? ",
+    "options": [
+      "At Australian Citizenship Ceremonies",
+      "Major Sporting Events",
+      "All of the above"
+    ],
+    "id": 10
+  }
+]

@@ -1,12 +1,14 @@
-import React from 'react';
+import React,{useState} from 'react';
 import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 
 
-const HomeScreen = ({ navigation }) => {
+
+const QuizScreen = ({ navigation }) => {
+    const [question, setQuestion]= useState('')
     return (
       <View style={styles.Container}>
-          <TouchableOpacity style={styles.Button} onPress={() => navigation.navigate('Quiz')}>
-          <Text>I am HomeScreen</Text>
+          <TouchableOpacity style={styles.Button}>
+          <Text>I am QuizScreen</Text>
           </TouchableOpacity>
       </View>
     );
@@ -33,4 +35,4 @@ const HomeScreen = ({ navigation }) => {
 
 
 
-export default HomeScreen
+export default QuizScreen
